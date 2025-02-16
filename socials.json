@@ -4,7 +4,7 @@
 			"id": "email",
 			"name": "Email",
 			"url": "mailto:lakshyajeet@jalal.uk.in",
-			"iconify": "carbon:email"
+			"iconify": "mdi:email-outline"
 		},
 		{
 			"id": "github",
@@ -40,7 +40,7 @@
 			"id": "website",
 			"name": "Website",
 			"url": "https://mglsj.eu.org/",
-			"iconify": "carbon:link"
+			"iconify": "mdi:web"
 		}
 	],
 	"secondary": [
