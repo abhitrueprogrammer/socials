@@ -1,122 +1,126 @@
-[
-	{
-		"id": "bluesky",
-		"name": "BlueSky",
-		"url": "https://bsky.app/profile/mglsj.eu.org/",
-		"iconify": "simple-icons:bluesky"
-	},
-	{
-		"id": "discord",
-		"name": "Discord",
-		"url": "https://discordapp.com/users/592915779662643240",
-		"iconify": "simple-icons:discord"
-	},
-	{
-		"id": "email",
-		"name": "Email",
-		"url": "mailto:lakshyajeet@jalal.uk.in",
-		"iconify": "carbon:email"
-	},
-	{
-		"id": "github",
-		"name": "GitHub",
-		"url": "https://github.com/mglsj",
-		"iconify": "simple-icons:github"
-	},
-	{
-		"id": "gitlab",
-		"name": "GitLab",
-		"url": "https://gitlab.com/mglsj",
-		"iconify": "simple-icons:gitlab"
-	},
-	{
-		"id": "googleplay",
-		"name": "Play Store",
-		"url": "https://play.google.com/store/apps/developer?id=mglsj",
-		"iconify": "simple-icons:googleplay"
-	},
-	{
-		"id": "instagram",
-		"name": "Instagram",
-		"url": "https://instagram.com/mglsj.gg",
-		"iconify": "simple-icons:instagram"
-	},
-	{
-		"id": "linkedin",
-		"name": "LinkedIn",
-		"url": "https://www.linkedin.com/in/mglsj/",
-		"iconify": "simple-icons:linkedin"
-	},
-	{
-		"id": "linktree",
-		"name": "LinkTree",
-		"url": "https://linktr.ee/mglsj",
-		"iconify": "simple-icons:linktree"
-	},
-	{
-		"id": "mastodon",
-		"name": "Mastodon",
-		"url": "https://mastodon.social/@mglsj",
-		"iconify": "simple-icons:mastodon"
-	},
-	{
-		"id": "npm",
-		"name": "npm",
-		"url": "https://www.npmjs.com/~mglsj",
-		"iconify": "simple-icons:npm"
-	},
-	{
-		"id": "osm",
-		"name": "OpenStreetMap",
-		"url": "https://www.openstreetmap.org/user/mglsj",
-		"iconify": "simple-icons:openstreetmap"
-	},
-	{
-		"id": "portfolio",
-		"name": "Portfolio",
-		"url": "https://lakshyajeet.jalal.uk.in/",
-		"iconify": "mdi:resume"
-	},
-	{
-		"id": "pub",
-		"name": "pub.dev",
-		"url": "https://pub.dev/publishers/mglsj.dev",
-		"iconify": "simple-icons:dart"
-	},
-	{
-		"id": "pypi",
-		"name": "PyPI",
-		"url": "https://pypi.org/user/mglsj/",
-		"iconify": "simple-icons:pypi"
-	},
-	{
-		"id": "reddit",
-		"name": "Reddit",
-		"url": "https://reddit.com/user/mglsj",
-		"iconify": "simple-icons:reddit"
-	},
-	{
-		"id": "telegram",
-		"name": "Telegram",
-		"url": "https://t.me/mglsj",
-		"iconify": "simple-icons:telegram"
-	},
-	{
-		"id": "website",
-		"name": "Website",
-		"url": "https://mglsj.eu.org/",
-		"iconify": "carbon:link"
-	},
-	{
-		"id": "wiki",
-		"name": "Wikipedia",
-		"url": "https://en.wikipedia.org/wiki/User:Mglsj",
-		"iconify": "simple-icons:wikipedia"
-	},
-	{
-		"id": "x",
-		"name": "X / Twitter",
-		"url": "https://x.com/mg_lsj",
-		"iconify": "simple-icons:x"
-	}
-]
+{
+	"primary": [
+		{
+			"id": "email",
+			"name": "Email",
+			"url": "mailto:lakshyajeet@jalal.uk.in",
+			"iconify": "carbon:email"
+		},
+		{
+			"id": "github",
+			"name": "GitHub",
+			"url": "https://github.com/mglsj",
+			"iconify": "simple-icons:github"
+		},
+		{
+			"id": "instagram",
+			"name": "Instagram",
+			"url": "https://instagram.com/mglsj.gg",
+			"iconify": "simple-icons:instagram"
+		},
+		{
+			"id": "linkedin",
+			"name": "LinkedIn",
+			"url": "https://www.linkedin.com/in/mglsj/",
+			"iconify": "simple-icons:linkedin"
+		},
+		{
+			"id": "portfolio",
+			"name": "Portfolio",
+			"url": "https://lakshyajeet.jalal.uk.in/",
+			"iconify": "mdi:resume"
+		},
+		{
+			"id": "telegram",
+			"name": "Telegram",
+			"url": "https://t.me/mglsj",
+			"iconify": "simple-icons:telegram"
+		},
+		{
+			"id": "website",
+			"name": "Website",
+			"url": "https://mglsj.eu.org/",
+			"iconify": "carbon:link"
+		}
+	],
+	"secondary": [
+		{
+			"id": "bluesky",
+			"name": "BlueSky",
+			"url": "https://bsky.app/profile/mglsj.eu.org/",
+			"iconify": "simple-icons:bluesky"
+		},
+		{
+			"id": "discord",
+			"name": "Discord",
+			"url": "https://discordapp.com/users/592915779662643240",
+			"iconify": "simple-icons:discord"
+		},
+		{
+			"id": "gitlab",
+			"name": "GitLab",
+			"url": "https://gitlab.com/mglsj",
+			"iconify": "simple-icons:gitlab"
+		},
+		{
+			"id": "googleplay",
+			"name": "Play Store",
+			"url": "https://play.google.com/store/apps/developer?id=mglsj",
+			"iconify": "simple-icons:googleplay"
+		},
+		{
+			"id": "linktree",
+			"name": "LinkTree",
+			"url": "https://linktr.ee/mglsj",
+			"iconify": "simple-icons:linktree"
+		},
+		{
+			"id": "mastodon",
+			"name": "Mastodon",
+			"url": "https://mastodon.social/@mglsj",
+			"iconify": "simple-icons:mastodon"
+		},
+		{
+			"id": "npm",
+			"name": "npm",
+			"url": "https://www.npmjs.com/~mglsj",
+			"iconify": "simple-icons:npm"
+		},
+		{
+			"id": "osm",
+			"name": "OpenStreetMap",
+			"url": "https://www.openstreetmap.org/user/mglsj",
+			"iconify": "simple-icons:openstreetmap"
+		},
+		{
+			"id": "pub",
+			"name": "pub.dev",
+			"url": "https://pub.dev/publishers/mglsj.dev",
+			"iconify": "simple-icons:dart"
+		},
+		{
+			"id": "pypi",
+			"name": "PyPI",
+			"url": "https://pypi.org/user/mglsj/",
+			"iconify": "simple-icons:pypi"
+		},
+		{
+			"id": "reddit",
+			"name": "Reddit",
+			"url": "https://reddit.com/user/mglsj",
+			"iconify": "simple-icons:reddit"
+		},
+		{
+			"id": "wiki",
+			"name": "Wikipedia",
+			"url": "https://en.wikipedia.org/wiki/User:Mglsj",
+			"iconify": "simple-icons:wikipedia"
+		},
+		{
+			"id": "x",
+			"name": "X / Twitter",
+			"url": "https://x.com/mg_lsj",
+			"iconify": "simple-icons:x"
+		}
+	]
+}
