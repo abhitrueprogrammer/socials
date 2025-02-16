@@ -1,51 +1,9 @@
 [
 	{
-		"id": "email",
-		"name": "Email",
-		"url": "mailto:lakshyajeet@jalal.uk.in",
-		"iconify": "carbon:email"
-	},
-	{
-		"id": "website",
-		"name": "Website",
-		"url": "https://mglsj.eu.org/",
-		"iconify": "carbon:link"
-	},
-	{
-		"id": "portfolio",
-		"name": "Portfolio",
-		"url": "https://lakshyajeet.jalal.uk.in/",
-		"iconify": "mdi:resume"
-	},
-	{
-		"id": "linkedin",
-		"name": "LinkedIn",
-		"url": "https://www.linkedin.com/in/mglsj/",
-		"iconify": "simple-icons:linkedin"
-	},
-	{
-		"id": "linktree",
-		"name": "LinkTree",
-		"url": "https://linktr.ee/mglsj",
-		"iconify": "simple-icons:linktree"
-	},
-	{
-		"id": "github",
-		"name": "GitHub",
-		"url": "https://github.com/mglsj",
-		"iconify": "simple-icons:github"
-	},
-	{
-		"id": "x",
-		"name": "X / Twitter",
-		"url": "https://x.com/mg_lsj",
-		"iconify": "simple-icons:x"
-	},
-	{
-		"id": "instagram",
-		"name": "Instagram",
-		"url": "https://instagram.com/mglsj.gg",
-		"iconify": "simple-icons:instagram"
+		"id": "bluesky",
+		"name": "BlueSky",
+		"url": "https://bsky.app/profile/mglsj.eu.org/",
+		"iconify": "simple-icons:bluesky"
 	},
 	{
 		"id": "discord",
@@ -54,28 +12,16 @@
 		"iconify": "simple-icons:discord"
 	},
 	{
-		"id": "telegram",
-		"name": "Telegram",
-		"url": "https://t.me/mglsj",
-		"iconify": "simple-icons:telegram"
+		"id": "email",
+		"name": "Email",
+		"url": "mailto:lakshyajeet@jalal.uk.in",
+		"iconify": "carbon:email"
 	},
 	{
-		"id": "reddit",
-		"name": "Reddit",
-		"url": "https://reddit.com/user/mglsj",
-		"iconify": "simple-icons:reddit"
-	},
-	{
-		"id": "bluesky",
-		"name": "BlueSky",
-		"url": "https://bsky.app/profile/mglsj.eu.org/",
-		"iconify": "simple-icons:bluesky"
-	},
-	{
-		"id": "mastodon",
-		"name": "Mastodon",
-		"url": "https://mastodon.social/@mglsj",
-		"iconify": "simple-icons:mastodon"
+		"id": "github",
+		"name": "GitHub",
+		"url": "https://github.com/mglsj",
+		"iconify": "simple-icons:github"
 	},
 	{
 		"id": "gitlab",
@@ -90,10 +36,46 @@
 		"iconify": "simple-icons:googleplay"
 	},
 	{
+		"id": "instagram",
+		"name": "Instagram",
+		"url": "https://instagram.com/mglsj.gg",
+		"iconify": "simple-icons:instagram"
+	},
+	{
+		"id": "linkedin",
+		"name": "LinkedIn",
+		"url": "https://www.linkedin.com/in/mglsj/",
+		"iconify": "simple-icons:linkedin"
+	},
+	{
+		"id": "linktree",
+		"name": "LinkTree",
+		"url": "https://linktr.ee/mglsj",
+		"iconify": "simple-icons:linktree"
+	},
+	{
+		"id": "mastodon",
+		"name": "Mastodon",
+		"url": "https://mastodon.social/@mglsj",
+		"iconify": "simple-icons:mastodon"
+	},
+	{
 		"id": "npm",
 		"name": "npm",
 		"url": "https://www.npmjs.com/~mglsj",
 		"iconify": "simple-icons:npm"
+	},
+	{
+		"id": "osm",
+		"name": "OpenStreetMap",
+		"url": "https://www.openstreetmap.org/user/mglsj",
+		"iconify": "simple-icons:openstreetmap"
+	},
+	{
+		"id": "portfolio",
+		"name": "Portfolio",
+		"url": "https://lakshyajeet.jalal.uk.in/",
+		"iconify": "mdi:resume"
 	},
 	{
 		"id": "pub",
@@ -108,15 +90,33 @@
 		"iconify": "simple-icons:pypi"
 	},
 	{
+		"id": "reddit",
+		"name": "Reddit",
+		"url": "https://reddit.com/user/mglsj",
+		"iconify": "simple-icons:reddit"
+	},
+	{
+		"id": "telegram",
+		"name": "Telegram",
+		"url": "https://t.me/mglsj",
+		"iconify": "simple-icons:telegram"
+	},
+	{
+		"id": "website",
+		"name": "Website",
+		"url": "https://mglsj.eu.org/",
+		"iconify": "carbon:link"
+	},
+	{
 		"id": "wiki",
 		"name": "Wikipedia",
 		"url": "https://en.wikipedia.org/wiki/User:Mglsj",
 		"iconify": "simple-icons:wikipedia"
 	},
 	{
-		"id": "osm",
-		"name": "OpenStreetMap",
-		"url": "https://www.openstreetmap.org/user/mglsj",
-		"iconify": "simple-icons:openstreetmap"
+		"id": "x",
+		"name": "X / Twitter",
+		"url": "https://x.com/mg_lsj",
+		"iconify": "simple-icons:x"
 	}
 ]
