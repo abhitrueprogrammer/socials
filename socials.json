@@ -122,5 +122,13 @@
 			"url": "https://x.com/mg_lsj",
 			"iconify": "simple-icons:x"
 		}
+	],
+	"tertiary" : [
+		{
+			"id": "26th january",
+			"name": "26th January",
+			"url": "https://26.abhinavpant.tech/",
+			"iconify": "mdi:flag"
+		}
 	]
 }
